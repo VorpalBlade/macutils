@@ -5,6 +5,7 @@
 
 #include <stdlib.h>
 #include <string.h>
+#include <time.h>
 #include "globals.h"
 #include "../util/curtime.h"
 #include "../util/masks.h"
