@@ -2,6 +2,7 @@
 #ifdef STF
 #include <string.h>
 #include <stdlib.h>
+#include <time.h>
 #include "stf.h"
 #include "globals.h"
 #include "huffman.h"
